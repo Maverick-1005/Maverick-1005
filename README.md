@@ -1,17 +1,71 @@
-## Hi there 👋
-## I am Ansh Mishra
+# 👋 Hi, I'm Ansh Mishra!
 
-<!--
-**Maverick-1005/Maverick-1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech. in Artificial Intelligence and Data Science (2023–2027)  
+📍 IIIT Sri City, Andhra Pradesh, India  
+📫 [Email](mailto:ansh1005mishra@gmail.com) | [LinkedIn](https://linkedin.com/in/ansh-mishra1005) | [GitHub](https://github.com/Maverick-1005)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a passionate developer and competitive programmer who enjoys building full-stack applications and solving real-world problems with clean and efficient code. With a strong foundation in C++, JavaScript, and Python, I aim to blend creativity with technical proficiency to create impactful software solutions.
+
+---
+
+## 🧠 Technical Skills
+
+**Languages:** C, C++, Java, JavaScript, Python, R  
+**Frameworks & Tools:** ReactJS, Redux, ExpressJS, Tailwind CSS, Cloudinary, Appwrite, Git, Multer  
+**Databases:** MongoDB, MySQL  
+**Relevant Subjects:** OOPS, DBMS, ADSA  
+
+---
+
+## 💻 Projects
+
+### 🔹 [Lobby](https://lobby-ansh.vercel.app)  
+*A real-time communication platform inspired by Discord*  
+Tech Stack: Next.js, Shadcn-UI, Clerk, Zustand, WebRTC, MySQL, Tailwind CSS  
+- Real-time messaging, voice/video chat, role-based permissions, media sharing  
+- Custom servers, authentication, rich media support  
+
+### 🔹 [VidVault](https://vidvault.vercel.app/)  
+*A video streaming platform inspired by YouTube*  
+Tech Stack: MERN, Redux, OAuth 2.0, Cloudinary, Tailwind CSS  
+- Video uploads, subscriptions, comments, playlists, history tracking  
+
+### 🔹 BlogSite  
+*A blogging platform with rich-text and image support*  
+Tech Stack: React, Redux Toolkit, Appwrite, Tailwind CSS  
+- Create/edit/delete blogs, user authentication, image uploads  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner, EduSynch Techfrontiers Challenge (Cash Prize)
+- 📈 Codeforces Pupil (Highest Rating: 1299)
+- ⭐ CodeChef 3-Star (Highest Rating: 1640)
+- 🧠 Solved 500+ DSA/CP problems across Codeforces, Leetcode, and CodeChef
+
+---
+
+## 🏢 Positions of Responsibility
+
+- 🎯 Core Member (Problem Setter) — *Gradient Club (Programming Club of IIITS)*  
+- 🏕️ Accommodation Team Member — *Abhisarga 2023, IIITS Cultural Fest*
+
+---
+
+## 📊 Competitive Programming Profiles
+
+- [Codeforces](https://codeforces.com/profile/Maverick_1005)  
+- [Leetcode](https://leetcode.com/u/Maverick_1005/)  
+- [CodeChef](https://www.codechef.com/users/ansh1005mishra)
+
+---
+
+### 🔗 Let's Connect!
+I'm always open to collaborating on exciting projects or solving problems together.  
+Feel free to reach out via [email](mailto:ansh1005mishra@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/ansh-mishra1005).
+
