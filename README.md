@@ -41,21 +41,6 @@ Tech Stack: React, Redux Toolkit, Appwrite, Tailwind CSS
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 Winner, EduSynch Techfrontiers Challenge (Cash Prize)
-- 📈 Codeforces Pupil (Highest Rating: 1299)
-- ⭐ CodeChef 3-Star (Highest Rating: 1640)
-- 🧠 Solved 500+ DSA/CP problems across Codeforces, Leetcode, and CodeChef
-
----
-
-## 🏢 Positions of Responsibility
-
-- 🎯 Core Member (Problem Setter) — *Gradient Club (Programming Club of IIITS)*  
-- 🏕️ Accommodation Team Member — *Abhisarga 2023, IIITS Cultural Fest*
-
----
 
 ## 📊 Competitive Programming Profiles
 
