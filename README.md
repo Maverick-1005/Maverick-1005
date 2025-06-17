@@ -34,11 +34,6 @@ Tech Stack: Next.js, Shadcn-UI, Clerk, Zustand, WebRTC, MySQL, Tailwind CSS
 Tech Stack: MERN, Redux, OAuth 2.0, Cloudinary, Tailwind CSS  
 - Video uploads, subscriptions, comments, playlists, history tracking  
 
-### 🔹 BlogSite  
-*A blogging platform with rich-text and image support*  
-Tech Stack: React, Redux Toolkit, Appwrite, Tailwind CSS  
-- Create/edit/delete blogs, user authentication, image uploads  
-
 ---
 
 
