@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I’m a passionate developer and competitive programmer who enjoys building full-stack applications and solving real-world problems with clean and efficient code. With a strong foundation in C++, JavaScript, and Python, I aim to blend creativity with technical proficiency to create impactful software solutions.
+I’m a passionate developer and competitive programmer who enjoys building full-stack applications and solving real-world problems with clean and efficient code. With a strong foundation in C/C++, JavaScript/TypeScript, I aim to blend creativity with technical proficiency to create impactful software solutions.
 
 ---
 
