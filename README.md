@@ -2,7 +2,7 @@
 
 🎓 B.Tech. in Artificial Intelligence and Data Science (2023–2027)  
 📍 IIIT Sri City, Andhra Pradesh, India  
-📫 [Email](mailto:ansh1005mishra@gmail.com) | [LinkedIn](https://linkedin.com/in/ansh-mishra1005) 
+📫 [Email](mailto:ansh1005mishra@gmail.com) | [LinkedIn](https://linkedin.com/in/ansh-mishra1005) | [Portfolio](https://maverickportfolio.vercel.app/) 
 
 ---
 
