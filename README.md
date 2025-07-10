@@ -5,7 +5,6 @@
   <b>📍 IIIT Sri City, Andhra Pradesh, India</b> <br />
   <a href="mailto:ansh1005mishra@gmail.com">📫 Email</a> |
   <a href="https://linkedin.com/in/ansh-mishra1005">💼 LinkedIn</a> |
-  <a href="https://github.com/Maverick-1005">👨‍💻 GitHub</a> |
   <a href="https://maverickportfolio.vercel.app/">🌐 Portfolio</a>
 </p>
 
