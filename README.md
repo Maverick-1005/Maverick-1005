@@ -3,9 +3,14 @@
 <p align="center">
   <b>B.Tech. in AI & Data Science (2023–2027)</b> <br />
   <b>📍 IIIT Sri City, Andhra Pradesh, India</b> <br />
+<!--   ## 📣 Let's Connect! -->
   <a href="mailto:ansh1005mishra@gmail.com">📫 Email</a> |
   <a href="https://linkedin.com/in/ansh-mishra1005">💼 LinkedIn</a> |
-  <a href="https://maverickportfolio.vercel.app/">🌐 Portfolio</a>
+  <a href="https://maverickportfolio.vercel.app/">🌐 Portfolio</a> |
+  <a href="https://codeforces.com/profile/Maverick_1005">🌍 CodeForces</a> |
+  <a href="https://leetcode.com/u/Maverick_1005">💡LeetCode</a> |
+  <a href="https://www.codechef.com/users/ansh1005mishra">🔥 CodeChef</a> |
+
 </p>
 
 ---
@@ -109,23 +114,15 @@ Tech: `Next.js` • `Gemini AI` • `Tailwind CSS` • `NewsAPI`
 
 ---
 
-## 👨‍💻 Competitive Programming
 
-- 🌍 [Codeforces](https://codeforces.com/profile/Maverick_1005)
-- 💡 [LeetCode](https://leetcode.com/u/Maverick_1005/)
-- 🔥 [CodeChef](https://www.codechef.com/users/ansh1005mishra)
+
+
 
 ---
 
 ## 📣 Let's Connect!
 
-I’m always open to networking, collaboration, or just a good ol' chat about tech!
 
-📫 [Email Me](mailto:ansh1005mishra@gmail.com)  
-📍 [LinkedIn](https://linkedin.com/in/ansh-mishra1005)  
-🌐 [Portfolio](https://maverickportfolio.vercel.app/)
-
----
 
 <p align="center">
   <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
