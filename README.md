@@ -39,12 +39,11 @@ ansh_mishra
 ansh@maverick:~$ cat skills.txt
 🎨 Frontend Magic    → React, Next.js, TypeScript
 ⚡ Backend Power     → Node.js, Express, MongoDB  
-🧠 Problem Solving  → C++, Python, Algorithms
-🛠️ DevOps & Tools   → Git, Docker, AWS, Vercel
+🧠 Problem Solving  → C++, Data Structures & Algorithms
+🛠️ DevOps & Tools   → Git, AWS, Vercel, Render
 
 ansh@maverick:~$ ps aux | grep ansh
 🚀 Building real-time web applications
-📚 Learning system design patterns
 🏆 Competing in coding challenges  
 ☕ Converting caffeine to clean code
 
@@ -64,9 +63,9 @@ ansh@maverick:~$ █
 
 ## 🌟 Featured Projects
 
-**🎮 [Lobii](https://lobii.vercel.app)** - Discord-inspired platform with real-time chat & WebRTC  
-**📺 [VidVault](https://vidvault.vercel.app/)** - YouTube clone with full streaming capabilities  
-**📰 [Briefly](https://brieflylatestnews.vercel.app)** - AI-powered news aggregator  
+**🎮 [Lobii](https://lobii.vercel.app)** - Social platform with real-time chat .
+**📺 [VidVault](https://vidvault.vercel.app/)** - Video Streaming platform with likes , comment , subscribe , channel creation , playlists etc.  
+**📰 [Briefly](https://brieflylatestnews.vercel.app)** - AI-powered news aggregator.
 
 ## 🏆 Quick Wins
 
