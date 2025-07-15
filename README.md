@@ -1,129 +1,102 @@
-<h1 align="center">👋 Hi, I'm Ansh Mishra!</h1>
+# 👋 Hey there, I'm Ansh Mishra!
 
 <p align="center">
-  <b>B.Tech. in AI & Data Science (2023–2027)</b> <br />
-  <b>📍 IIIT Sri City, Andhra Pradesh, India</b> <br />
-<!--   ## 📣 Let's Connect! -->
-  <a href="mailto:ansh1005mishra@gmail.com">📫 Email</a> |
-  <a href="https://linkedin.com/in/ansh-mishra1005">💼 LinkedIn</a> |
-  <a href="https://maverickportfolio.vercel.app/">🌐 Portfolio</a> |
-  <a href="https://codeforces.com/profile/Maverick_1005">🌍 CodeForces</a> |
-  <a href="https://leetcode.com/u/Maverick_1005">💡LeetCode</a> |
-  <a href="https://www.codechef.com/users/ansh1005mishra">🔥 CodeChef</a> |
+  <b>🎓 B.Tech AI & Data Science • IIIT Sri City</b><br>
+  <b>🚀 Full-Stack Developer • Competitive Programmer</b>
+</p>
 
+<p align="center">
+  <a href="mailto:ansh1005mishra@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/ansh-mishra1005">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://maverickportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://codeforces.com/profile/Maverick_1005">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/u/Maverick_1005">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/ansh1005mishra">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🔥 What I Do
 
-I'm a passionate full-stack developer and competitive programmer who loves to build real-world projects and solve challenging problems. I enjoy turning complex problems into clean, efficient, and scalable solutions.
+<div >
 
-- 🔥 Full-stack enthusiast | MERN & Next.js  
-- 💡 Keen on scalable system design & real-time apps  
-- 📈 Active on Codeforces, Leetcode, and CodeChef  
-- 💬 Always up for a tech chat or collaboration  
+```bash
+ansh@maverick:~$ whoami
+ansh_mishra
 
----
+ansh@maverick:~$ cat skills.txt
+🎨 Frontend Magic    → React, Next.js, TypeScript
+⚡ Backend Power     → Node.js, Express, MongoDB  
+🧠 Problem Solving  → C++, Python, Algorithms
+🛠️ DevOps & Tools   → Git, Docker, AWS, Vercel
 
-## 🧠 Tech Stack
+ansh@maverick:~$ ps aux | grep ansh
+🚀 Building real-time web applications
+📚 Learning system design patterns
+🏆 Competing in coding challenges  
+☕ Converting caffeine to clean code
 
-### 🛠️ Languages & Tools
+ansh@maverick:~$ echo $MOTTO
+"First make it work, then make it beautiful, then make it fast"
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r)
+ansh@maverick:~$ █
+```
 
-### 🚀 Frameworks & Tools
+</div>
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite)
-
----
-
-## 💻 Projects
-
-### 🔹 [Lobii](https://lobii.vercel.app)
-> Real-time Discord-inspired platform with chat, voice, and video
-
-Tech: `Next.js` • `Shadcn-UI` • `Clerk` • `Zustand` • `MySQL` • `WebRTC`
-
-- Role-based servers, live chat & media sharing  
-- Voice/video calling using WebRTC  
-- Rich UI with emoji, GIFs, and real-time interactions  
-
-🔗 [Frontend Repo](https://github.com/Maverick-1005/Lobby)
-
----
-
-### 🔹 [VidVault](https://vidvault.vercel.app/)
-> A full-fledged YouTube-inspired video streaming platform
-
-Tech: `MERN` • `Redux` • `OAuth 2.0` • `Cloudinary` • `JWT`
-
-- Upload videos, like/subscribe, comment system  
-- Track playlists and watch history  
-- Secure Google login + responsive design  
-
-🔗 [Backend Repo](https://github.com/Maverick-1005/VidVault-Backend)
-
----
-
-### 🔹 [Briefly](https://brieflylatestnews.vercel.app)
-> AI-powered news aggregator with real-time summaries
-
-Tech: `Next.js` • `Gemini AI` • `Tailwind CSS` • `NewsAPI`
-
-- Summarized news using Gemini  
-- Real-time search with fallback coverage  
-- Clean and mobile-friendly interface  
-
-🔗 [GitHub Repo](https://github.com/Maverick-1005/Briefly)
-
----
-
-## 🏆 Achievements
-
-- 🥈 1st Runner-up @ BitNBuild Hackathon – *StartupSync*  
-- 🧠 Top Contributor @ EduSynch TechFrontiers – *Cash Prize Winner*  
-- 🧮 Solved 600+ DSA/CP problems  
-- 💥 Codeforces Max Rating: 1299 (Pupil)  
-- ⚡ CodeChef Max Rating: 1640 (3★)  
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maverick-1005&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maverick-1005&layout=compact&theme=radical" width="48%" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp,mongodb,mysql,tailwind,git" />
+</p>
+
+## 🌟 Featured Projects
+
+**🎮 [Lobii](https://lobii.vercel.app)** - Discord-inspired platform with real-time chat & WebRTC  
+**📺 [VidVault](https://vidvault.vercel.app/)** - YouTube clone with full streaming capabilities  
+**📰 [Briefly](https://brieflylatestnews.vercel.app)** - AI-powered news aggregator  
+
+## 🏆 Quick Wins
+
+- 🥈 **1st Runner-up** @ BitNBuild Hackathon
+- 🧠 **600+ Problems** solved across platforms
+- ⚡ **Codeforces Pupil** (Max: 1299)
+- 🌟 **CodeChef 3★** (Max: 1640)
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maverick-1005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maverick-1005&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maverick-1005&theme=tokyonight" alt="Maverick-1005" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maverick-1005&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
 
-
-
-
-
----
-
-## 📣 Let's Connect!
-
-
+<p align="center">
+  <i>"Any fool can write code that a computer can understand.<br>Good programmers write code that humans can understand."</i><br>
+  <b>— Martin Fowler</b>
+</p>
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+  <img src="https://komarev.com/ghpvc/?username=Maverick-1005&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
