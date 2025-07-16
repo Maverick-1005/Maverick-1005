@@ -97,6 +97,4 @@ ansh@maverick:~$ █
   <b>— Martin Fowler</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maverick-1005&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
+
