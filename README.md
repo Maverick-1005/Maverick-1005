@@ -64,6 +64,7 @@ ansh@maverick:~$ █
 ## 🌟 Featured Projects
 
 **🎮 [Lobii](https://lobii.vercel.app)** - Social platform with real-time chat .
+<br>
 **📺 [VidVault](https://vidvault.vercel.app/)** - Video Streaming platform with likes , comment , subscribe , channel creation , playlists etc.  
 **📰 [Briefly](https://brieflylatestnews.vercel.app)** - AI-powered news aggregator.
 
