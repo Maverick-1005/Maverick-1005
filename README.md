@@ -86,9 +86,6 @@ ansh@maverick:~$ █
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maverick-1005&theme=tokyonight" alt="Maverick-1005" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maverick-1005&theme=tokyonight&row=1&column=6" />
-</p>
 
 ---
 
