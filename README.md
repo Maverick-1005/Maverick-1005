@@ -37,7 +37,7 @@ ansh@maverick:~$ whoami
 ansh_mishra
 
 ansh@maverick:~$ cat skills.txt
-🎨 Frontend Magic    → React, Next.js, TypeScript
+🎨 Frontend Magic    → React, Next.js, TypeScript, TanstackQuery 
 ⚡ Backend Power     → Node.js, Express, MongoDB  
 🧠 Problem Solving  → C++, Data Structures & Algorithms
 🛠️ DevOps & Tools   → Git, AWS, Vercel, Render
